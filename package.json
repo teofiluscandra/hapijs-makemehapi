@@ -11,6 +11,7 @@
     "hapi": "^17.5.3",
     "inert": "^5.1.0",
     "makemehapi": "^7.0.3",
+    "rot13-transform": "^1.0.0",
     "vision": "^5.4.0"
   }
 }
