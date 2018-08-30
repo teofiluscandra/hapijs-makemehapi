@@ -10,3 +10,4 @@ Learn more at [Make Me Hapi](https://github.com/hapijs/makemehapi)
 * [H2o2](https://github.com/hapijs/h2o2) - Proxy handler
 * [Joi](https://github.com/hapijs/joi) - Object Schema Validation
 * [Boom](https://github.com/hapijs/boom) - Http friendly error object
+* [Hapi basic auth](https://github.com/hapijs/hapi-auth-basic) - Basic auth plugin
